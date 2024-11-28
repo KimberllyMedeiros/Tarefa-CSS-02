@@ -1,0 +1,23 @@
+#body{
+    background-color:#03052c;
+    padding: 0px;
+    margin: 0px;
+}
+#caixa{
+    background-color: aliceblue;
+}
+#foto{
+   width: 250px;
+   height: 250px;
+}
+#texto1{
+    color: aliceblue;
+    text-align: center;
+    size:500px
+}
+#texto2{
+    color: aqua;
+}
+#texto3{
+    color: blue;
+}
