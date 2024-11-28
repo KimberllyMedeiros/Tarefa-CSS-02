@@ -5,6 +5,10 @@
 }
 #caixa{
     background-color: aliceblue;
+    width: 80%;
+    height: 400px;
+    margin-left: 50px;
+   box-shadow: 2px 2px 12px aqua;
 }
 #foto{
    width: 250px;
@@ -13,10 +17,12 @@
 #texto1{
     color: aliceblue;
     text-align: center;
-    size:500px
+    font-weight: bold;
+    
 }
 #texto2{
     color: aqua;
+    text-align: center;
 }
 #texto3{
     color: blue;
