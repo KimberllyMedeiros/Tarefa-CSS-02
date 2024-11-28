@@ -3,15 +3,7 @@
     padding: 0px;
     margin: 0px;
 }
-#caixa{
-    background-color: aliceblue;
-    border: 2px solid aqua;
-    width: 80%
-    height: 400px;
-    text-align: center;
-    border-radius: 3%;
-    margin: 10%;
-}
+
 #foto{
    width: 250px;
    height: 250px;
@@ -30,3 +22,39 @@
 #texto4{
     text-align: justify;
 }
+
+#caixa{
+    background-color: aliceblue;
+    border: 2px solid aqua;
+    width: 50%;
+    height: 400px;
+    text-align: center;
+    border-radius: 3%;
+    margin: 0 auto; 
+    padding: 20px;
+
+    
+
+}
+    /* @media(max-width: 768px){ */{
+        #texto3{
+            color: blue;
+        }
+        #texto4{
+            text-align: justify;
+        }
+        
+        #caixa{
+            background-color: aliceblue;
+            border: 2px solid aqua;
+            width: 70%;
+            height: 400px;
+            text-align: center;
+            border-radius: 3%;
+            margin: 0 auto; 
+            padding: 20px;
+        
+            
+        
+        }
+    }
