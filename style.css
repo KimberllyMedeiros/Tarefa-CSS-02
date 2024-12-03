@@ -68,13 +68,13 @@
 {
     #caixa{
         background-color: aliceblue;
-        border: 2px solid #d6cc3b;
+        border: 2px solid aqua;
         width: 70%;
         height: 400px;
         text-align: center;
         border-radius: 3%;
         padding: 20px;
-        margin-top: 5%;
+        margin-top: 15%;
         font-size: medium;
     }
 }
